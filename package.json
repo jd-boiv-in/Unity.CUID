@@ -1,0 +1,17 @@
+{
+  "name": "jd.boiv.in.cuid",
+  "version": "1.0.0",
+  "displayName": "CUID",
+  "description": "Generate unique IDs",
+  "dependencies": {
+    
+ },
+ "keywords": [
+    "cuid", "cuid2", "guid", "id"
+  ],
+  "author": {
+    "name": "Jean-Denis Boivin",
+    "email": "jd@boiv.in",
+    "url": "https://jd.boiv.in"
+  }
+}
