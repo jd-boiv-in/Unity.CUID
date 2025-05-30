@@ -2,7 +2,7 @@
 
 A lightweight (and faster) non-cryptographic version of CUID 2 with no dependencies tailored for Unity.
 
-This is an id that should be collision resistant (offline) and can be used by your team to identify unique objects without fearing that the same id will be used when merging.
+This is an id that should be collision resistant (offline) and can be used by your team to create unique data without fearing that the same id will be used when merging.
 
 ## Installation
 
