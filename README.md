@@ -22,7 +22,7 @@ Simply call the following to get an id:
 
 ```csharp
 var id = Cuid2.Get();
-Debug.Log($"My CUID: {id}");
+Debug.Log($"CUID: {id}");
 ```
 
 ## TODO
